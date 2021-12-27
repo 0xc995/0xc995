@@ -1,3 +1,3 @@
-👋 hi i'm zhoug
-JS is my daily driver
-enjoying the web3 stuff 🤓
+👋 hi i'm zhoug  
+daily driver -> javascript  
+enjoying -> the web3 stuff 🤓
