@@ -1,3 +1,3 @@
-👋 hi i'm zhoug  
-daily driver -> javascript  
-enjoying -> the web3 stuff 🤓
+hi, i'm zhoug  
+i like javascript & solidity
+currently enjoying: *the web3*
