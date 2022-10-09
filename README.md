@@ -1,3 +1,3 @@
 hi, i'm zhoug  
 i like javascript & solidity  
-currently enjoying: *the web3*
+it's not gay to kiss the homies goodnight
