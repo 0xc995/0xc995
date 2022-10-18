@@ -1,4 +1,4 @@
-**hi, i'm zhoug**  
+## hi, i'm zhoug
 i'm a fullstack developer & community gatherer with a focus on Ethereum and the web3 ecosystem
 
 ***some of the projects i've worked on:***
