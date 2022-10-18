@@ -9,13 +9,15 @@
 **sketchy mfers NFT collection**
 - an incredibly based mfers derivative
 - based on the original sketches by the mfers founder and remixed into a comprehensive collection
-- [website](https://sketchymfers.art)
-- [twitter page](https://twitter.com/sketchymfers)
+- [info site](https://sketchymfers.art)
+- [twitter](https://twitter.com/sketchymfers)
+- [opensea](https://opensea.io/collection/sketchymfers)
 
 **larva mfers NFT collection**
 - a larva lads X mfers derivative
 - goofy, composable game peices with custom stats, and unique metadata to provide design utility to memesters
-- [twitter page](https://twitter.com/larvamfers)
+- [twitter](https://twitter.com/larvamfers)
+- [opensea](https://opensea.io/collection/larvamfers)
 
  ...plus more!
   
