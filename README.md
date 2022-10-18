@@ -3,7 +3,7 @@
   
   
 ### some projects i've worked on
-* *under construction! more to list! coming soon!* *
+\**under construction! more to list! coming soon!*\*
 
 **larva mfers NFT collection**
 - a larva lads X mfers derivative
