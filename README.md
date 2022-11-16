@@ -15,7 +15,7 @@
 
 **larva mfers NFT collection**
 - a larva lads X mfers derivative
-- goofy, composable game peices with custom stats, and unique metadata to provide design utility to memesters
+- goofy, composable game pieces with custom stats, and unique metadata to provide design utility to memesters
 - [twitter](https://twitter.com/larvamfers)
 - [opensea](https://opensea.io/collection/larvamfers)
 
