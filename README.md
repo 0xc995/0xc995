@@ -2,13 +2,13 @@
 
 > i'm a fullstack dev with a focus on web3 & the Ethereum ecosystem
   
+\**this is under construction! more to come!*\*
+  
 ### some NFT projects i've worked on
-\**under construction! more to list! coming soon!*\*
-
 
 **sketchy mfers NFT collection**
 - an incredibly based mfers derivative, or so i have heard
-- based on the original sketches by the mfers founder and remixed into a comprehensive collection
+- based on the original sketches by the [mfers](https://mirror.xyz/sartoshi.eth/QukjtL1076-1SEoNJuqyc-x4Ut2v8_TocKkszo-S_nU) founder and remixed into a comprehensive collection
 - [info site](https://sketchymfers.art)
 - [twitter](https://twitter.com/sketchymfers)
 - [opensea](https://opensea.io/collection/sketchymfers)
