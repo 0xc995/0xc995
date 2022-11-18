@@ -1,13 +1,13 @@
 # hi, i'm zhoug
-> i'm a fullstack developer & community gatherer with a focus on Ethereum and the web3 ecosystem
-  
+
+> i'm a fullstack dev with a focus on web3 & the Ethereum ecosystem
   
 ### some NFT projects i've worked on
 \**under construction! more to list! coming soon!*\*
 
 
 **sketchy mfers NFT collection**
-- an incredibly based mfers derivative
+- an incredibly based mfers derivative, or so i have heard
 - based on the original sketches by the mfers founder and remixed into a comprehensive collection
 - [info site](https://sketchymfers.art)
 - [twitter](https://twitter.com/sketchymfers)
